@@ -1,14 +1,18 @@
 # Projeto Ilumina
 Trabalho Interdisciplinar II: Bancos de Dados e Sistemas Inteligentes - PUC Minas
 
-# Estrutura de Diretórios
-tba
-## docs
-tba
+Esta é uma organização compartilhada pelos alunos da disciplina de TI2, que tem por objetivo arquitetar o Projeto Ilumina - um portal de imersão
+a instituições filantrópicas - como parte dos requisitos da matéria. Aqui você encontrará desde os esboços de idealização do trabalho até o
+produto final obtido pela equipe.
+
+# Estrutura de Repositórios
+- `.github`
+- `documentacao`
+- `projetoIlumina`
   
 ## Autores
 
-<table>
+<table align="center">
   <tr>
   <td align="center"><a href="https://github.com/Ferrasx"><img src="https://avatars.githubusercontent.com/u/84094936?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Martins</b></sub></a></td>
   <td align="center"><a href="https://github.com/fiori007"><img src="https://avatars.githubusercontent.com/u/82971295?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Fiori</b></sub></a></td>
