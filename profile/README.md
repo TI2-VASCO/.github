@@ -5,11 +5,18 @@ Esta é uma organização compartilhada pelos alunos da disciplina de TI2, que t
 a instituições filantrópicas - como parte dos requisitos da matéria. Aqui você encontrará desde os esboços de idealização do trabalho até o
 produto final obtido pela equipe.
 
-# Estrutura de Repositórios
+## Estrutura de Repositórios
 - `.github`
 - `documentacao`
 - `projetoIlumina`
-  
+
+## Tecnologias Utilizadas
+- `Languages`
+<img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> • <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> • <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> • <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+- `DataBase` <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+- `OS` <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> 
+- `Tools` <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> • <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
 ## Autores
 
 <table align="center">
